@@ -1,6 +1,6 @@
-# myack
+# mycashbook
 
-A new Flutter project.
+my new cashbook/ledgers.
 
 ## Getting Started
 
